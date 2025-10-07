@@ -1,0 +1,7 @@
+CONFIDENTIAL INVOICE
+
+Customer: Dreamfly Admin
+Amount: $0.00
+
+Special Notes:
+FLAG{ID0R_1NS3CUR3_0BJ3CT_R3F3R3NC3}
